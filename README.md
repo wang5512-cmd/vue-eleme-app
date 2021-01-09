@@ -65,5 +65,5 @@ $ npm run build
 	答：[CSS秘密花园:Sticky footers](http://www.w3cplus.com/css3/css-secrets/sticky-footers.html)
 - better-scroll实现联动
 
-	答：https://github.com/ustbhuangyi/better-scroll
+	答：https://github.com/wang5512-cmd/vue-eleme-app.git
 
